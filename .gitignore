@@ -1,0 +1,14 @@
+# All
+node_modules/
+
+platforms/
+plugins/
+
+# Mac
+.DS_Store
+
+# iOS
+*.xcuserdatad
+
+# res
+resources/signing
