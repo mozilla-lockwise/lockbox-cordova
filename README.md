@@ -5,7 +5,7 @@ Cordova project for the mobile Lockbox app.
 ## Prerequisites ##
 
 * Node (>= 6.0)
-* Cordova (via NPM)
+* Cordova (via `npm install -g`)
 
 ## Building ##
 
