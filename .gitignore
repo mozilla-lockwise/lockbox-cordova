@@ -1,8 +1,10 @@
 # All
-node_modules/
+/node_modules/
+/www/*
+!/www/.gitkeep
 
-platforms/
-plugins/
+/platforms/
+/plugins/
 
 # Mac
 .DS_Store
