@@ -1,5 +1,5 @@
 {
-    "name": "org.mozilla.lockbox",
+    "name": "com.mozilla.lockbox",
     "displayName": "Lockbox",
     "version": "1.0.0",
     "description": "A sample Apache Cordova application that responds to the deviceready event.",
@@ -7,8 +7,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Apache Cordova Team",
-    "license": "Apache-2.0",
+    "author": "Mozilla Lockbox Team <lockbox@mozilla.com>",
+    "license": "MPL-2.0",
     "dependencies": {
         "cordova-android": "^6.2.3",
         "cordova-ios": "^4.4.0",
